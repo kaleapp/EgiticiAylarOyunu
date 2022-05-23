@@ -53,10 +53,12 @@
     <UnityVersion>2020.3.26f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Game\Kale.cs" />
     <Compile Include="Assets\Scripts\Game\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Quiz\QuizManager.cs" />
     <Compile Include="Assets\Scripts\Game\Top.cs" />
     <Compile Include="Assets\Scripts\Menu\MenuManager.cs" />
+    <Compile Include="Assets\Scripts\Learning\LearningManager.cs" />
+    <Compile Include="Assets\Scripts\Help\HelpManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
